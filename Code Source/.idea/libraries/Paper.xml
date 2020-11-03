@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Paper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Serv/1.8 [Soleria Custom}/Paper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

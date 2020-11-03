@@ -1,0 +1,7 @@
+name: AntiFusion
+version: '1.0.0'
+api-version: "1.8"
+description: Anti Fusion d'items en combats
+author: MxLily
+main: fr.mxlily.soleria.antifusion.Main
+website: lilydieudonne.com
